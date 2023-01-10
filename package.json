@@ -1,0 +1,15 @@
+{
+  "name": "alura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.0.2",
+    "mochawesome": "^7.1.3"
+  }
+}

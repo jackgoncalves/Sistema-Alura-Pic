@@ -1,0 +1,27 @@
+[
+    {
+        "email": "ze@gamil.com",
+        "fullName": "Ze siva",
+        "userName": "zezek",
+        "password": "zeca12345"
+
+    },
+
+    {
+        "email": "creito@gamil.com",
+        "fullName": "creito jose",
+        "userName": "creitao",
+        "password": "creito01234"
+
+    },
+
+    {
+        "email": "reginaldo@gamil.com",
+        "fullName": "reg jose",
+        "userName": "regaionao",
+        "password": "creito01234"
+
+    }
+
+    
+]
