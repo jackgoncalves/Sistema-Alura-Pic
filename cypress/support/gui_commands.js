@@ -18,7 +18,7 @@ Cypress.Commands.add('InserirLoginValido', () => {
 
     cy.get('input[type="search"]').should('be.visible')
 
-    cy.contains('a', 'Logout').click()
+    // cy.contains('a', 'Logout').click()
 
 })
 
