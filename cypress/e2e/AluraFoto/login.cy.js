@@ -9,14 +9,11 @@ describe('Login no sistema', function () {
         cy.InserirLoginInvalido()
 
     })
-
-
     
     it('Dado que insiro login inválido', function(){
 
         cy.InserirLoginValido(Cypress.env('userName'), Cypress.env('password'))
 
     })
-
 
 })
